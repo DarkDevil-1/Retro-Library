@@ -1,6 +1,3 @@
-
-
-
 def snek():
     import time
     import pygame
